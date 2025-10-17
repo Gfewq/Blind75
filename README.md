@@ -1,7 +1,7 @@
 # 🧠 Blind 75 Solutions
 
 A curated collection of my solutions to the **Blind 75** coding interview problems.  
-Each solution is written with clarity and efficiency in mind — focusing on clean code, optimal time complexity, and well-documented logic.
+Each solution is written with clarity and efficiency in mind, focusing on clean code, optimal time complexity, and well-documented logic.
 
 ---
 ## 🧱 Topics Covered
