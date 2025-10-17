@@ -7,14 +7,23 @@ Each solution is written with clarity and efficiency in mind — focusing on cle
 ## 🧱 Topics Covered
 
 ✅ Arrays
+
 ✅ Strings
+
 ✅ Dynamic Programming
+
 ✅ Linked Lists
+
 ✅ Trees & Graphs
+
 ✅ Binary Search
+
 ✅ Backtracking
+
 ✅ Heap / Priority Queue
+
 ✅ Intervals
+
 ✅ Math & Bit Manipulation
 
 ## 🌟 Goal
